@@ -2,7 +2,7 @@
 
 [English below](#english)
 
-###### deutsch
+###### Deutsch
 
 Ein Beispiel für einen einfachen Webshop, der das Einpflegen von Rabattcodes sowie Produkten ermöglicht. Diese Anwendung wurde mithilfe von Node.js und Express im Backend und mit React.js im Frontend erstellt. Sie interagiert mit einer MongoDB-Datenbank für die Speicherung von Rabattcodes und Produktinformationen. Die Kommunikation zwischen Frontend und Backend wird durch RESTful API-Endpunkte ermöglicht.
 
