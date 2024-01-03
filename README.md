@@ -1,8 +1,8 @@
 # WEBSHOP
 
-[English below](#english)
-
 ###### Deutsch
+
+[English below](#english)
 
 Ein Beispiel für einen einfachen Webshop, der das Einpflegen von Rabattcodes sowie Produkten ermöglicht. Diese Anwendung wurde mithilfe von Node.js und Express im Backend und mit React.js im Frontend erstellt. Sie interagiert mit einer MongoDB-Datenbank für die Speicherung von Rabattcodes und Produktinformationen. Die Kommunikation zwischen Frontend und Backend wird durch RESTful API-Endpunkte ermöglicht.
 
@@ -228,9 +228,9 @@ Dies ist eine im Sinne der Aufgabe vereinfachte Darstellung. Im vorliegenden Bei
 
 # Webshop
 
-[Back to German](#deutsch)
-
 ###### English
+
+[Back to German](#deutsch)
 
 An example of a simple webshop that allows for the integration of discount codes and products. This application was developed using Node.js and Express for the backend and React.js for the frontend. It interacts with a MongoDB database for storing discount codes and product information. The communication between frontend and backend is enabled through RESTful API endpoints.
 
