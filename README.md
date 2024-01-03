@@ -226,7 +226,7 @@ Die Produktübersichts-Seite ist responsiv (Mobile view: 2 Kacheln, Tablet: 3 Ka
 
 Dies ist eine im Sinne der Aufgabe vereinfachte Darstellung. Im vorliegenden Beispiel habe ich etwa vorausgesetzt, dass alle Produkte um den gleichen Betrag reduziert sind. Eine Möglichkeit, hier mehr Spielraum zu implementieren, wäre zum Beispiel, im Backend im Datenschema zu den einzelnen Produkten ein Feld einzufügen, das besagt, um wieviel Prozent ein Artikel reduziert ist, und dies im Frontend bei der Berechnung des reduzierten Preises und der Darstellung der Prozente zu berücksichtigen.
 
-# Webshop
+# 🛍️ Webshop
 
 ###### English
 
